@@ -54,3 +54,25 @@
 //   }
 // 
 // }
+
+//..... Snack facoltativo.......
+
+// // Crea due array che hanno un numero di elementi diversi
+
+// var array_1 = ["a", "b", "c", "d"];
+
+// var array_2 = ["x", "y", "z"];
+
+//  // Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro
+
+// for (var i = 0; i < array_1.length; i++) {
+
+//   if (array_1.length < array_2.length ) {
+//     array_1.push(array_1[i]);
+//   }
+//   else if (array_2.length < array_1.length ) {
+//     array_2.push(array_2[i]);
+//   }
+// }
+
+// console.log(array_1, array_2);
